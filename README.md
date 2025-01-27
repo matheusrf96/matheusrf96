@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus! 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for building and solving problems through code. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate Software Engineer with **8 years of experience**. I specialize in building scalable financial systems and have a strong interest in **fintech, banking systems and financial technologies**. Here's a little about me:
 
 ## 🚀 Skills
 
@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for
 - **Databases**: PostgreSQL, MySQL and Redis
 - **DevOps & Cloud**: Docker, Kubernetes, GCP and CI/CD
 - **Tools & Technologies**: Git, Linux, Shell Script, RabbitMQ and GraphQL
+
+## 💼 Professional Experience
+
+- **8 years** of experience in Software Development.
+- Worked on building payment gateways, ledgers, user tracking systems, booking systems, and travel itineraries.
+- Expertise in scalable cloud-based banking systems, customer management and financial modeling.
 
 ## 🌱 What I'm Currently Learning
 
